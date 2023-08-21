@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732850635830",
+    "firebase_url": "https://kotlincartfirebase-b3d34-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kotlincartfirebase-b3d34",
+    "storage_bucket": "kotlincartfirebase-b3d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732850635830:android:8d3276dc13669201b0c497",
+        "android_client_info": {
+          "package_name": "com.example.cartfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732850635830-trt2f4vuv623ra6h321klqspk08ocvka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnow-Of7egj46a_ZWz3YvIJUVrW8vO_b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732850635830-trt2f4vuv623ra6h321klqspk08ocvka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
